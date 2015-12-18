@@ -9,7 +9,7 @@ namespace Solver
         static void Main(string[] args)
         {
             var day = new Day3();
-            day.Day3_1();
+            day.Day3_2();
         }
 
         
