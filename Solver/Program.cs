@@ -8,8 +8,8 @@ namespace Solver
     {
         static void Main(string[] args)
         {
-            var day = new Day3();
-            day.Day3_2();
+            var day = new Day4();
+            day.Day4_2();
         }
 
         
